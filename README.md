@@ -1,6 +1,6 @@
 # Wilson Santos ✌️
 
-#### HELLO AND WELCOME AT MY PROFILE
+#### HELLO AND WELCOME TO MY PROFILE
 
 - 📍 Uberlândia, MG - Brazil 🇧🇷
 - 👔 Frontend Developer
