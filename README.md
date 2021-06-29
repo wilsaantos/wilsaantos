@@ -21,6 +21,8 @@ Have worked as a Minor Apprentice, Help Desk, Service Desk, Support and now as a
 
 > ![FacebookBadge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&amp;logo=Facebook&amp;logoColor=white&amp;link=https://www.facebook.com/wilson.ssf)
 
+> ![InstagramBadge](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/wil.saantos/)
+
 > ![OutlookBadge](https://img.shields.io/badge/-Outlook-0072C6?style=flat-square&amp;logo=Microsoft%20Outlook&amp;logoColor=white&amp;link=mailto:wilson.saantos@hotmail.com)
 
 > ![GmailBadge](https://img.shields.io/badge/-Gmail-BB001B?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:wssf15@gmail.com)
@@ -37,5 +39,6 @@ Or
 
 
 
+## 🏳️ Respect Above Everything!
 
 
