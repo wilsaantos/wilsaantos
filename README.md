@@ -38,4 +38,43 @@ Or
 
 ## 🏳️ Respect Above Everything!
 
+# 
+
+#### OLÁ E SEJA BEM VINDO AO MEU PERFIL
+
+- 📍 Uberlândia, MG - Brasil 🇧🇷
+- 👔 Desenvolvedor Frontend
+
+Sou estudante de Sistemas de Informação, mas ultimamente aprendendo mais por conta própria.
+
+Amo aprender novas coisas, principalmente se envolver tecnologias.
+
+Preparado para desafios e enfrentar mudanças.
+
+Trabalhei como Menor Aprendiz, Help Desk, Service Desk, Suporte e agora como Desenvolvedor Frontend.
+
+###### 🧠 "Mens Sana In Corpore Sano"
+###### 🌈 "Believe You Can Reach The End Of The Rainbow, And Find A Pot Of Gold"
+
+#### Fale Comigo 👇
+> ![linkedinBadge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/wilsonsaantos/) 
+![FacebookBadge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&amp;logo=Facebook&amp;logoColor=white&amp;link=https://www.facebook.com/wilson.ssf)
+
+> ![InstagramBadge](https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/wil.saantos/)
+![TwitterBadge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/wilson_ssf)
+
+> ![OutlookBadge](https://img.shields.io/badge/-Outlook-0072C6?style=flat-square&amp;logo=Microsoft%20Outlook&amp;logoColor=white&amp;link=mailto:wilson.saantos@hotmail.com)
+![GmailBadge](https://img.shields.io/badge/-Gmail-BB001B?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:wssf15@gmail.com)
+
+> ![YoutubeBadge](https://img.shields.io/badge/-Youtube%20Channel-FF0000?style=flat-square&amp;logo=Youtube&amp;logoColor=white&amp;link=https://www.youtube.com/channel/UCaQYq15kxeSUSHjm4HPHmJA)
+
+> ![WhatsappBadge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&amp;logo=WhatsApp&amp;logoColor=white&amp;link=_https://api.whatsapp.com/send?phone=5534991906344)
+
+Ou
+
+> 📱+55 (34) 99190-6344
+
+
+
+## 🏳️ Respeito Acima de Tudo!
 
