@@ -78,3 +78,5 @@ Ou
 
 ## 🏳️ Respeito Acima de Tudo!
 
+![Snake animation](https://github.com/wilsaantos/wilsaantos/blob/output/github-contribution-grid-snake.svg)
+
