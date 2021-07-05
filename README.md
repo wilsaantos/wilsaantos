@@ -54,7 +54,7 @@ Preparado para desafios e enfrentar mudanças.
 Trabalhei como Menor Aprendiz, Help Desk, Service Desk, Suporte e agora como Desenvolvedor Frontend.
 
 ###### 🧠 "Mens Sana In Corpore Sano"
-###### 🌈 "Believe You Can Reach The End Of The Rainbow, And Find A Pot Of Gold"
+###### 🌈 "Acredite Que Você Pode Chegar, No Fim Do Arco-Íris E Um Pote De Ouro Encontrar"
 
 #### Fale Comigo 👇
 > ![linkedinBadge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/wilsonsaantos/) 
