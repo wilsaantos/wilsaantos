@@ -49,7 +49,7 @@ Or
 - 📍 Uberlândia, MG - Brasil 🇧🇷
 - 👔 Desenvolvedor Frontend
 
-- Tech: Angular | Spring Boot | ReactJS (Learning) | NodeJS (Learning)
+- Tech: Angular | Spring Boot | ReactJS (Aprendendo) | NodeJS (Aprendendo)
 - Linguagens: Javascript/Typescript, C, Java
 - Linguagem Preferida: Typescript
 
