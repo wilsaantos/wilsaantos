@@ -6,7 +6,7 @@
 - 👔 Frontend Developer
 
 - Tech: Angular | Spring Boot | ReactJS (Learning) | NodeJS (Learning)
-- Languages: Javascript/Typescript, C, Java
+- Languages: Javascript/Typescript | C | Java | SQL (Basic)
 - Language Preference: Typescript
 
 I'm a Information System student at Federal University of Uberlândia, but lately more as a self learner.
@@ -50,7 +50,7 @@ Or
 - 👔 Desenvolvedor Frontend
 
 - Tech: Angular | Spring Boot | ReactJS (Aprendendo) | NodeJS (Aprendendo)
-- Linguagens: Javascript/Typescript, C, Java
+- Linguagens: Javascript/Typescript | C | Java | SQL (Básico)
 - Linguagem Preferida: Typescript
 
 Sou estudante de Sistemas de Informação, mas ultimamente aprendendo mais por conta própria.
