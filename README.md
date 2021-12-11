@@ -5,6 +5,10 @@
 - 📍 Uberlândia, MG - Brazil 🇧🇷
 - 👔 Frontend Developer
 
+- Tech: Angular | Spring Boot | ReactJS (Learning) | NodeJS (Learning)
+- Languages: Javascript/Typescript, C, Java
+- Language Preference: Typescript
+
 I'm a Information System student at Federal University of Uberlândia, but lately more as a self learner.
 
 Love to learn new things and technologies. 
@@ -44,6 +48,10 @@ Or
 
 - 📍 Uberlândia, MG - Brasil 🇧🇷
 - 👔 Desenvolvedor Frontend
+
+- Tech: Angular | Spring Boot | ReactJS (Learning) | NodeJS (Learning)
+- Linguagens: Javascript/Typescript, C, Java
+- Linguagem Preferida: Typescript
 
 Sou estudante de Sistemas de Informação, mas ultimamente aprendendo mais por conta própria.
 
