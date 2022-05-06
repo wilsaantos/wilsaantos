@@ -3,7 +3,7 @@
 #### HELLO AND WELCOME TO MY PROFILE
 
 - 📍 Uberlândia, MG - Brazil 🇧🇷
-- 👔 Frontend Developer
+- 👔 Developer
 
 - 💻 Tech: Angular | Spring Boot | ReactJS (Learning) | NodeJS (Learning)
 - ⌨ Languages: Javascript/Typescript | C | Java | SQL (Basic)
@@ -46,7 +46,7 @@ Or
 #### OLÁ E SEJA BEM VINDO AO MEU PERFIL
 
 - 📍 Uberlândia, MG - Brasil 🇧🇷
-- 👔 Desenvolvedor Frontend
+- 👔 Desenvolvedor
 
 - 💻 Tech: Angular | Spring Boot | ReactJS (Aprendendo) | NodeJS (Aprendendo)
 - ⌨ Linguagens: Javascript/Typescript | C | Java | SQL (Básico)
@@ -61,7 +61,6 @@ Preparado para desafios e enfrentar mudanças.
 Trabalhei como Menor Aprendiz, Help Desk, Service Desk, Suporte e agora como Desenvolvedor Frontend.
 
 ###### 🧠 "Mens Sana In Corpore Sano"
-###### 🌈 "Acredite Que Você Pode Chegar, No Fim Do Arco-Íris E Um Pote De Ouro Encontrar"
 
 #### Fale Comigo 👇
 > ![linkedinBadge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/wilsonsaantos/) 
