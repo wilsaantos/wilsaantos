@@ -31,12 +31,6 @@ Have worked as a Minor Apprentice, Help Desk, Service Desk, Support and now as a
 
 > ![YoutubeBadge](https://img.shields.io/badge/-Youtube%20Channel-FF0000?style=flat-square&amp;logo=Youtube&amp;logoColor=white&amp;link=https://www.youtube.com/channel/UCaQYq15kxeSUSHjm4HPHmJA)
 
-> ![WhatsappBadge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&amp;logo=WhatsApp&amp;logoColor=white&amp;link=_https://api.whatsapp.com/send?phone=5534991906344)
-
-Or
-
-> 📱+55 (34) 99190-6344
-
 
 
 ## 🏳️ Respect Above Everything!
@@ -73,12 +67,6 @@ Trabalhei como Menor Aprendiz, Help Desk, Service Desk, Suporte e agora como Des
 ![GmailBadge](https://img.shields.io/badge/-Gmail-BB001B?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:wssf15@gmail.com)
 
 > ![YoutubeBadge](https://img.shields.io/badge/-Youtube%20Channel-FF0000?style=flat-square&amp;logo=Youtube&amp;logoColor=white&amp;link=https://www.youtube.com/channel/UCaQYq15kxeSUSHjm4HPHmJA)
-
-> ![WhatsappBadge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&amp;logo=WhatsApp&amp;logoColor=white&amp;link=_https://api.whatsapp.com/send?phone=5534991906344)
-
-Ou
-
-> 📱+55 (34) 99190-6344
 
 
 
