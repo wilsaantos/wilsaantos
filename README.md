@@ -5,8 +5,8 @@
 - 📍 Uberlândia, MG - Brazil 🇧🇷
 - 👔 Developer
 
-- 💻 Tech: Angular | Spring Boot | ReactJS | NodeJS
-- ⌨ Languages: Javascript/Typescript | Java | SQL
+- 💻 Tech: Angular | React | Node | Java
+- ⌨ Languages: Javascript/Typescript | Java
 - ⌨️ Preference: Javascript/Typescript
 
 
